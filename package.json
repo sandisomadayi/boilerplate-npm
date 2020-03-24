@@ -1,6 +1,8 @@
 {
+  {
+     "author": "Sandiso Madayi"
+  },
   "name": "fcc-learn-npm-package-json",
-  "author": "Sandiso Madayi",
   "dependencies": {
     "express": "^4.14.0"
   },
